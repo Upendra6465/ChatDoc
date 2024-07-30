@@ -27,10 +27,10 @@ Follow the steps below to install and setup the project:
 1. Clone the repository
 
    Open your terminal and run the following command:
-   ```https://github.com/CodeOfMugiwara/chatdoc.git```
+   ```https://github.com/Upendra6465/ChatDoc.git```
 
 2. Navigate to the project directory
-   `cd chatdoc`
+   `cd ChatDoc`
 
 3. Install Node.js
    The project requires Node.js version 14.0.01 or later.
